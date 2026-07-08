@@ -1,2 +1,2 @@
 # Big-Brain-Ape-
-Fully autonomous trading bar and stock and crypto analyst.
+Fully autonomous trading bot and stock and crypto analyst.
