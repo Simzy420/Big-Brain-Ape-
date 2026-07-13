@@ -1,5 +1,8 @@
 # 🧠👑 Big Brain Ape — Fully Autonomous AI Trading Bot
 
+> 🔗 **All links in one place:** [simzy420.github.io/Simzy420](https://simzy420.github.io/Simzy420/)
+
+
 > **Macro-driven, liquidity-first, 18-month forward thinking.** Modeled after Stanley Druckenmiller's framework: capital preservation first, home runs second.
 
 [![Mintlify Docs](https://img.shields.io/badge/docs-bigbrainape.mintlify.app-7C3AED)](https://bigbrainape.mintlify.app)
