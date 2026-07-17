@@ -5,7 +5,7 @@
 
 > **Macro-driven, liquidity-first, 18-month forward thinking.** Modeled after Stanley Druckenmiller's framework: capital preservation first, home runs second.
 
-[![Mintlify Docs](https://img.shields.io/badge/docs-bigbrainape.mintlify.app-7C3AED)](https://bigbrainape.mintlify.app)
+[![Mintlify Docs](https://img.shields.io/badge/docs-big-brain-ape-trading-bot.mintlify.app-7C3AED)](https://big-brain-ape-trading-bot.mintlify.app)
 [![Substack](https://img.shields.io/badge/Substack-@BigBrainApe-FF6719)](https://bigbrainape.substack.com)
 [![DegenClaw](https://img.shields.io/badge/DegenClaw-%231729-blue)](https://degen.virtuals.io)
 [![Status](https://img.shields.io/badge/status-live-green)]()
@@ -105,7 +105,7 @@ Every single run, the bot answers six questions with a **fresh mind**:
 
 ## Links
 
-- 📖 [Documentation](https://bigbrainape.mintlify.app)
+- 📖 [Documentation](https://big-brain-ape-trading-bot.mintlify.app)
 - 📰 [Substack — Market Briefings](https://bigbrainape.substack.com)
 - 🐦 [X/Twitter — @Big_Brain_Ape](https://x.com/Big_Brain_Ape)
 - 🏆 [DegenClaw Arena — #1729](https://degen.virtuals.io)
