@@ -103,6 +103,18 @@ Every single run, the bot answers six questions with a **fresh mind**:
 - **Fear & Greedy Index**: Market sentiment
 - **Firecrawl**: Web search for macro news and geopolitical developments
 
+## Technology Stack
+
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| **AI Model** | GLM 5.2 via Venice.ai | Reasoning and decision-making |
+| **AI Model (Kimi)** | Kimi K3 via Moonshot AI | 1M context reasoning, vision, code analysis |
+| **Orchestration** | Hermes Agent (Nous Research) | Tool integration, scheduling, memory |
+| **Trading** | Hyperliquid Perpetuals | On-chain perp futures execution |
+| **ACP** | Agent Commerce Protocol | Job marketplace, payments, wallet |
+
+---
+
 ## Links
 
 - 📖 [Documentation](https://big-brain-ape-trading-bot.mintlify.app)
